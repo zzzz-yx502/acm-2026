@@ -1,9 +1,0 @@
-﻿  basis.cpp
-D:\Users\charry\source\repos\STL\STL\basis.cpp(106,12): error C3874: “main”的返回类型应为“int”而非“__int64”
-D:\Users\charry\source\repos\STL\STL\basis.cpp(126,25): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-D:\Users\charry\source\repos\STL\STL\basis.cpp(126,44): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-D:\Users\charry\source\repos\STL\STL\basis.cpp(135,25): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-D:\Users\charry\source\repos\STL\STL\basis.cpp(135,44): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-D:\Users\charry\source\repos\STL\STL\basis.cpp(143,25): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-  string.cpp
-  正在生成代码...
