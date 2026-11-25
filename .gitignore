@@ -18,3 +18,7 @@ a.out
 # Windows
 Thumbs.db
 desktop.ini
+.vs/
+Debug/
+*.pdb
+*.user
